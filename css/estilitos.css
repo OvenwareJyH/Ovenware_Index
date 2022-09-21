@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 7, 2022, 1:41:33 PM
+    Author     : alumno
+*/
+body{
+    background-image: url(https://thumbs.gfycat.com/HairyQueasyAcouchi-max-1mb.gif);
+    background-size: cover;
+}
+
+.div0{
+    margin-top: 0px;
+    background-color: transparent;
+    text-align: center;
+    color: #E46D06
+}
+.div1{
+    align-self: center;
+    display: block;
+    margin: auto;
+    font-family: Averia Libre;
+    background-color: #fcefe3;
+    width: 95%;
+    height: 1000px;
+}
+.div2{
+    align-self: center;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    font-family: Averia Libre;
+    font-size: 26px;
+    color: #2F2F2F;
+}
+.div3{
+    align-self: center;
+    display: block;
+    margin: auto;
+    font-family: Averia Libre;
+    font-size: 26px;
+    color: #2F2F2F;
+    background-color: #EED4B9;
+    
+}
+.div4{
+    align-self: center;
+    display: block;
+    margin: auto;
+    padding: 5px;
+}
+h1{
+    font-family: Quantico;
+    font-size: 44px;
+    color: #E46D06;
+}
+h3{
+    font-family: Quantico;
+    font-size: 46px;
+}
+table{
+    align-self: center;
+    display: table;
+    margin: auto;
+    align-self: center;
+    align-content: center;
+    width: 70%;
+}
+td{
+    font-family: Quantico;
+    font-size: 24px;
+    width: 33%;
+}
+.p1{
+    font-family: Homemade Apple;
+    font-size: 36px;
+    color: orange;
+}
+hr{
+    width: 90%;
+    height: 2px;
+    color: black;
+}
